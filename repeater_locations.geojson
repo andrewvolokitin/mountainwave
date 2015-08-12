@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Round Mountain"
+        "name": "Round Mountain",
+        "verified?": "n"
       },
       "geometry": {
         "type": "Point",
@@ -17,7 +18,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Goat Mountain"
+        "name": "Goat Mountain",
+        "verified?": "n"
       },
       "geometry": {
         "type": "Point",
@@ -30,7 +32,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Soosap Pk"
+        "name": "Soosap Pk",
+        "verified?": "n"
       },
       "geometry": {
         "type": "Point",
@@ -43,7 +46,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Whale Head Mountain"
+        "name": "Whale Head Mountain",
+        "verified?": "n"
       },
       "geometry": {
         "type": "Point",
@@ -56,7 +60,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Tumala Mountain"
+        "name": "Tumala Mountain",
+        "verified?": "n"
       },
       "geometry": {
         "type": "Point",
@@ -69,7 +74,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Tom Dick and Harry Mountain"
+        "name": "Tom Dick and Harry Mountain",
+        "verified?": "n"
       },
       "geometry": {
         "type": "Point",
@@ -82,7 +88,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Timberline"
+        "name": "Timberline",
+        "verified?": "n"
       },
       "geometry": {
         "type": "Point",
@@ -95,7 +102,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Larch Mountain"
+        "name": "Larch Mountain",
+        "verified?": "n"
       },
       "geometry": {
         "type": "Point",
@@ -108,7 +116,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "OHSU"
+        "name": "OHSU",
+        "verified?": "n"
       },
       "geometry": {
         "type": "Point",
@@ -121,7 +130,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Council Crest - West Hills"
+        "name": "Council Crest - West Hills",
+        "verified?": "n"
       },
       "geometry": {
         "type": "Point",
