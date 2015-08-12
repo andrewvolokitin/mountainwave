@@ -1,0 +1,135 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Round Mountain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.22959518432617,
+          45.05551555169899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goat Mountain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29671478271484,
+          45.13137721556895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soosap Pk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26032257080077,
+          45.07145970939363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Whale Head Mountain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.11904525756837,
+          45.1062425418872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tumala Mountain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.04093933105469,
+          45.23053582326654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tom Dick and Harry Mountain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.79203033447264,
+          45.28998432480111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Timberline"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.71010494232178,
+          45.33044947903357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Larch Mountain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.09039926528929,
+          45.53091393343956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "OHSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68564581871033,
+          45.49903786837662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Council Crest - West Hills"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.708101272583,
+          45.49876714523858
+        ]
+      }
+    }
+  ]
+}
