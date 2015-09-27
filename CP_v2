@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Timothy Lake - PGE",
+        "Electricity?": "Y",
+        "Parking?": "Y",
+        "WiFi?": "unk",
+        "Owner": "PGE",
+        "Contact": "123-123-4567",
+        "Notes": "abc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.80720627307892,
+          45.116064930708056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Frog Lake",
+        "Electricity?": "n",
+        "Parking?": "y",
+        "WiFi?": "n",
+        "Owner": "USFS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.69923663139343,
+          45.2290473020021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Timberline Lodge",
+        "Electricity?": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.70783042907713,
+          45.33085677540784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ramona Falls TH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.83226615190506,
+          45.386947047295905
+        ]
+      }
+    }
+  ]
+}
