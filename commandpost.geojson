@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Timothy Lake - PGE",
+        "Electricity?": "Y",
+        "Parking?": "Y",
+        "WiFi?": "unk",
+        "Owner": "PGE",
+        "Contact": "123-123-4567",
+        "Notes": "abc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.80720627307892,
+          45.116064930708056
+        ]
+      }
+    }
+  ]
+}
